@@ -3,6 +3,10 @@ uuid = "917fdbe1-c167-4f54-af03-6137e44636b3"
 authors = ["Steve Kelly <kd2cca@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
+libfive_jll = "9b0dbc3c-3dc6-5248-b9fa-47e3a4c707ae"
+
 [compat]
 julia = "1"
 

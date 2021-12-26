@@ -1,0 +1,3 @@
+[deps]
+Clang = "40e3b903-d033-50b4-a0cc-940c62c95e31"
+libfive_jll = "9b0dbc3c-3dc6-5248-b9fa-47e3a4c707ae"
