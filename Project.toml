@@ -8,6 +8,7 @@ CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
 libfive_jll = "9b0dbc3c-3dc6-5248-b9fa-47e3a4c707ae"
 
 [compat]
+CEnum = "0.4"
 julia = "1"
 
 [extras]
